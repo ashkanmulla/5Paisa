@@ -179,6 +179,12 @@ Harry
 
 Dev
 
+
+https://p7tn464j.r.ap-southeast-1.awstrack.me/L0/https:%2F%2Fwww.hackerearth.com%2Fchallenges%2Ftest%2Fdata-scientist-assessment-test%2F%3Flogin=66fa35ab7b8ef616ac3748cc9233c8bb/2/010e019111882d0c-1f8ff28a-de74-446f-96ba-c6a2e8f70d92-000000/ZsB1btF0Wfkv46nj_duWhFFfiIg=170
+
+
+
+
 Dick's and Jerry's scores were the same, so they are shown in ID order.
 
 Solve above hackerrank problem with MySQL 

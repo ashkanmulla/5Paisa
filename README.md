@@ -11,3 +11,108 @@ Develop and fine tune NLP/NLU models, including transformer-based models (BERT, 
  https://tests.mettl.com/authenticateKey/6qbe646vb4
 
 
+Dear Ashkan,
+
+
+
+Greetings from Gradient M !! 
+
+
+
+Hope you are doing good !!! 
+
+
+
+As discussed, please find the below company details and job description
+
+
+
+
+
+About Our Client – LTIMindtree
+
+
+
+Overview
+LTI is now LTIMindtree, and we are getting businesses to the future, faster. Together. Curious about how we do it? Follow us on www.linkedin.com/ltimindtree/
+
+Website
+https://www.lntinfotech.com
+
+
+
+
+
+
+
+
+
+LTIMindtree - Technology Consulting and Digital Solutions Company
+LTIMindtree is a global technology consulting and digital solutions company that enables enterprises across industries to reimagine business models, accelerate innovation, and maximize growth by harnessing digital technologies.
+www.lntinfotech.com
+Industry
+IT Services and IT Consulting
+Company size
+10,001+ employees
+36,769 on LinkedIn Includes members with current employer listed as LTI - Larsen & Toubro Infotech, including part-time roles. Also includes employees from subsidiary: Powerupcloud Technologies.
+Headquarters
+Mumbai, Maharashtra
+Specialties
+Internet of Things, Big Data Analytics, Business Process Automation, BlockChain, Artificial Intelligence, Robotic Process Automation, Machine Learning, GDPR Compliance, Digital Consulting, Information Technology, Cloud Migration, Digital Transformation, Data Analytics, and Privacy
+
+Please find the JD below.
+
+Primary Skills – Python, AI, ML (Machine Learning) Gen AI – Generative AI
+ 
+Key Skills – NLP, LLM, Deep Learning, Computer Vision, AWS Cloud
+ 
+Experience- 5 to 12 Years
+ 
+LTIMindtree is looking for Data Scientist
+ 
+- More than 5 years of experience in Data Science and AI / ML domain
+- Excellent understanding of machine learning techniques and algorithms, such as GPTs, CNN, RNN, k-NN, Naive Bayes, SVM, Decision Forests, etc.
+- Experience using business intelligence tools (e.g. Tableau, PowerBI) and data frameworks (e.g. Hadoop)
+- Experience in Cloud native skills.
+- Knowledge of SQL and Python; familiarity with Scala, Java or C++ is an asset
+- Analytical mind and business acumen and Strong math skills (e.g. statistics, algebra)
+- Experience with common data science toolkits, such as TensorFlow, KERAs, PyTorch, PANDAs, Microsoft CNTK, NumPy etc. Deep expertise in at least one of these is highly desirable.
+- Experience with NLP, NLG and Large Language Models like – BERT, LLaMa, LaMDA, GPT, BLOOM, PaLM, DALL-E, etc.
+- Great communication and presentation skills. Should have experience in working in a fast-paced team culture.
+- Experience with AIML and Big Data technologies like – AWS SageMaker, Azure Cognitive Services, Google Colab, Jupyter Notebook, Hadoop, PySpark, HIVE, AWS EMR etc.
+- Experience with NoSQL databases, such as MongoDB, Cassandra, HBase, Vector databases
+- Good understanding of applied statistics skills, such as distributions, statistical testing, regression, etc.
+- Should be a data-oriented person with analytical mind and business acumen
+
+
+
+CTC: 21 LPA
+
+ECTC: 30-31 LPA
+
+Location: Mumbai
+ref Location: Mumbai
+Notice period: 3-Aug-2024
+Work Mode: Hybrid(3 days WFO and 2 days WFH)
+
+
+Kindly acknowledge the email if you are interested.
+
+
+
+
+Kindly give confirmation on notice period as well.
+
+
+Thanks and Regards,
+Sai Lakshmi,
+9440829476.
+
+
+From: Sai Lakshmi <Sai.lakshmi@gradientm.com>
+Sent: Friday, July 12, 2024 4:31 PM
+To: ashkanmulla@gmail.com <ashkanmulla@gmail.com>
+Subject: LTIMindtree | Company Profile & Job Description | Data Scientist+Gen AI
+ 
+Show quoted text
+

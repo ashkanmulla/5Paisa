@@ -1,3 +1,8 @@
+
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_M2M0Yjk1YzMtOTM5MC00ZGQwLWIwYWQtZjQ1ZGUxNmNkMmY0%40thread.v2/0?context=%7b%22Tid%22%3a%22a858d9da-8dfa-4b12-9f90-d0448a34f6d1%22%2c%22Oid%22%3a%22306f5999-a058-48a7-87bd-8fb12b1c8078%22%7d
+
+
+
 https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjdkYjhlNTctMmRhMi00NmNlLWE1ZmQtMjZlOTI1NDViOTNi%40thread.v2/0?context=%7b%22Tid%22%3a%22b9dcaa23-1a53-4be9-94a2-eb6b7fd66559%22%2c%22Oid%22%3a%2205f65366-5e99-40e5-83aa-d41774f5659e%22%7d
 https://app.skaas.guru/jobs/lead_data_scientist_1722247616
 
